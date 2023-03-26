@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Aayush
+# Hi there 👋, my name is Aayush
 ![Aayush](https://user-images.githubusercontent.com/97807224/227798362-89c1e2de-2652-4b34-9ea2-db57ddec57cf.png)
 
 Greetings, fellow game enthusiasts! I am a novice game developer on a quest to create captivating games that will transport players to magical worlds filled with wonder and adventure. As a child, I was always fascinated by video games and their ability to transport players to other worlds, and now as an adult, I am determined to create my own games and share that experience with others.
@@ -23,8 +23,6 @@ Skills: C++ | C# | Unity | Unreal
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JabberWock555&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JabberWock555)  
-
-![GitHub metrics](https://metrics.lecoq.io/JabberWock555)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=JabberWock555)  
 
