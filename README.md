@@ -16,7 +16,7 @@ Skills: C++ | C# | Unity | Unreal
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JabberWock555)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aayush-gupta-5892b5186//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aayushgupta555.wixsite.com/jabberwockstudio)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JabberWock555)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JabberWock555&theme=tokyonight&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JabberWock555&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JabberWock555&show_icons=true&theme=tokyonight&hide_border=true)  
 
