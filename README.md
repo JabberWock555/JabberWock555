@@ -18,8 +18,7 @@ Skills: C++ | C# | Unity | Unreal
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JabberWock555&theme=tokyonight&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JabberWock555&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JabberWock555&show_icons=true&theme=tokyonight&hide_border=true)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JabberWock555&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JabberWock555&show_icons=true&theme=tokyonight&hide_border=true)  
+   
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JabberWock555&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JabberWock555&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
