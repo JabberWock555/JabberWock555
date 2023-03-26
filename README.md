@@ -24,5 +24,5 @@ Skills: C++ | C# | Unity | Unreal
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JabberWock555)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=JabberWock555)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JabberWock555&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
